@@ -1,2 +1,5 @@
-# dotnetcore-maui-1
-Dotnet Core Maui example
+# DotNet Core Maui Examples and Playground
+
+Maui application created with Visual Studio 2022.
+
+
